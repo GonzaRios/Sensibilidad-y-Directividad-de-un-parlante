@@ -5,3 +5,5 @@ Se implemento un script para obtener la sensibilidad y directividad de un parlan
 
 
 ![Sensibilidad de un parlante](./img/Sensibilidad.png)
+
+![Sonograma de un parlante](./img/Sonograma.png)
